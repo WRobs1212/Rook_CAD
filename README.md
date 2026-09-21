@@ -4,7 +4,7 @@ Parametric 3D rook model created in Onshape using constraints, sketches, and dim
 ## Skills Demonstrated
 - CAD modeling fundamentals
 - Parametric design and geometric constraints
-- Exporting STEP/STL files
+- Exporting STEP files
 
 ## Included Files
 - rook.step
